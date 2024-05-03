@@ -1,0 +1,10 @@
+.home_container{
+    width: 100%;
+    background-color: white;
+}
+.cards_div{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
